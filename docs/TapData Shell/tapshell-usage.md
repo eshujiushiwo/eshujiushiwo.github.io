@@ -1,8 +1,12 @@
-
+---
+title: TapShell Usage
+parent: TapData Shell
+has_children: false
+nav_order: 2
+---
 
 # `tapshell` Usage
 
-Maintainer: @Edison
 
 To run commands in `tapshell`, you must first [connect to a TapData](./tapshell-overview.md).
 

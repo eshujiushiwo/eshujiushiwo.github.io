@@ -1,6 +1,10 @@
+---
+title: Quick Start
+has_children: false
+nav_order: 3
+---
 # Quick Start
 
-Maintainer: @Edison
 
 This guide walks you through the quickest way to get started with TapData using [Docker Compose](https://github.com/docker/compose) , and will show a sample of the datamovement from MySQL to MongoDB in Real-Time.
 
