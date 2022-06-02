@@ -1,6 +1,10 @@
+---
+title: Sync Data from MongoDB to MongoDB
+parent: Case Study
+has_children: false
+nav_order: 3
+---
 # Sync Data from MongoDB to MongoDB
-
-Maintainer: @Edison
 
 ## Background
 

@@ -1,6 +1,11 @@
+---
+title: Sync Data from MySQL to MySQL
+parent: Case Study
+has_children: false
+nav_order: 1
+---
 # Sync Data from MySQL to MySQL
 
-Maintainer: @Edison
 
 ## Background
 

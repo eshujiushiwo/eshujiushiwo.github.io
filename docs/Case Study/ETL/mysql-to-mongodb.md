@@ -1,6 +1,10 @@
+---
+title: Sync Data from MySQL to MongoDB
+parent: Case Study
+has_children: false
+nav_order: 2
+---
 # Sync Data from MySQL to MongoDB
-
-Maintainer: @Edison
 
 ## Background
 
