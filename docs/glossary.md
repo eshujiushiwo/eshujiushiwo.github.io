@@ -1,3 +1,9 @@
+---
+title: Glossary
+has_children: false
+nav_order: 101
+---
+
 # Glossary
 
 ## A

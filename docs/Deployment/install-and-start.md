@@ -1,6 +1,11 @@
+---
+title: Install and Start
+parent: Deployment
+has_children: false
+nav_order: 2
+---
 # Install and Start
 
-Maintainer: @Edison
 
 ## Prerequisites
 
