@@ -1,6 +1,10 @@
+---
+title: Introduction
+parent: About TapData
+has_children: false
+nav_order: 1
+---
 # Introduction
-
-> Maintainer: @Edison
 
 TapData  is an open source implementation of the DaaS architecture.TapData is next generation real time data platform,  designed to provide an enterprise data serving layer to serve web, mobile and backend applications,as well as analytical use cases such as BI and reporting.  
 

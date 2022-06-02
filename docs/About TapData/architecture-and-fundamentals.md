@@ -1,3 +1,9 @@
+---
+title: Architecture & Fundamentals
+parent: About TapData
+has_children: false
+nav_order: 2
+---
 # Architecture & Fundamentals
 
 

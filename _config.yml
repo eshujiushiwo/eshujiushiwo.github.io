@@ -1,5 +1,6 @@
-title: TapData Community
+title: TapData Community Documentation
 logo: "/assets/favicon.png"
 description: The Documentation site of TapData
 url: "https://eshujiushiwo.github.io"
 remote_theme: just-the-docs/just-the-docs
+search_enabled: false
