@@ -7,6 +7,14 @@ nav_order: 2
 
 # `tapshell` Usage
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 
 To run commands in `tapshell`, you must first [connect to a TapData](./tapshell-overview.md).
 
