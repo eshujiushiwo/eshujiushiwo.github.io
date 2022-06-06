@@ -13,7 +13,7 @@ TapData can be deployed on-premise or in-cloud and offers different version for 
 -  For locally hosted deployments, TapData offers both a *Community* and an *Enterprise* version:
   - TapData Community is the [source available and free to use](https://github.com/tapdata/tapdata) edition of TapData.
   - TapData Enterprise provides enterprise-focused features such as Visual interface, Commercial database connector, RBAC, Auto-FailOver and auditing.
-- 「Comming soon」[TapData Cloud](https://tapdata.net/tapdata-cloud.html) is a hosted TapData Enterprise service option in the cloud which requires no installation overhead and offers a free tier to get started.
+- 「Comming soon」[TapData Cloud](https://tapdata.net/tapdata-cloud.html) is a hosted TapData  service option in the cloud which requires no installation overhead and offers a free tier to get started.
 
 ## Who & When Can Use TapData
 

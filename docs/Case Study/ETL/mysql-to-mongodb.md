@@ -13,7 +13,7 @@ In many cases, we need to transfer MySQL data to MongoDB, such as:
 - 「Database Switching」Transfer a database of MySQL instance to another MongoDB instance.
 - 「Table Aggregation and Data Development」Merge multiple tables into one  or split one table to many with UDF
 
-The supported versions of [MySQL]() and [MongoDB](../../Connectors/pre-build-connectors.md#MongoDB).
+The supported versions of [MySQL](../../Connectors/pre-build-connectors.md#MongoDB) and [MongoDB](../../Connectors/pre-build-connectors.md#MongoDB).
 
 ## Database Switching
 

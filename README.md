@@ -71,7 +71,7 @@ The term "live has two meanings:
 - Highly available pipelines
 
 
-For more details and latest updates, see [TapData docs](./docs/index.md) and [release notes](./docs/Release Notes/all-releases.md).
+For more details and latest updates, see [TapData docs](./docs/About TapData/about-tapdata.md) and [release notes](./docs/Release Notes/all-releases.md).
 
 ## More Use Cases: Who & When Can Use TapData
 
@@ -131,16 +131,12 @@ TapData can be used by data stewards in following possible scenarios:
 
 You can join these groups and chats to discuss and ask TapData related questions:
 
-- [TapData Internals Forum](https://www.tapdata.net)（todo）
-- [Slack Channel](https://www.tapdata.net)（todo）
 - [WeChat Channel](https://www.tapdata.net) （todo）
-- [TapData User Group Forum (Chinese)](https://www.tapdata.net) (todo)
 
 In addition, you may enjoy following:
 
-- [@TapData](https://twitter.com/TapData) on Twitter(todo)
-- Question tagged [#TapData on StackOverflow ](https://stackoverflow.com/questions/tagged/tapdata) (todo)
-- The TapData Team [English Blog](https://tapdata.net/blog.html) and [Chinese Blog](https://tapdata.net/blog.html)  (todo:English version )
+- Question in the Github Issues
+- The TapData Team [Blog](https://tapdata.net/blog.html) 
 
 For support, please contact [TapData](https://tapdata.net/tapdata-enterprise/demo.html). (todo: a brand new contact us page)
 
@@ -148,17 +144,13 @@ For support, please contact [TapData](https://tapdata.net/tapdata-enterprise/dem
 
 ### To start using TapData
 
-See [Quick Start Guide](./docs/quick-start.md). 
+See [Quick Start Guide](./docs/Quick Start/quick-start.md). 
 
-### 「WIP」To start using TapData Cloud
+### To start using TapData Cloud
 
-We provide TapData Cloud - a fully-managed Data as a Service for you. You can [sign up](https://auth.tapdata.net/login) and get started with TapData Cloud Free Tier.
+We provide TapData Cloud - a fully-managed Data Replication and Migration Service for you. You can [sign up](https://auth.tapdata.net/login) and get started with TapData Cloud Free Tier.
 
 See [TapData Cloud Quick Start](https://tapdata.net/docs-tapdata-cloud.html).
-
-### 「WIP」To start developing TapData
-
-See [Get Started](./docs/tapdata-dev-guide/get-started.md) chapter of [TapData Dev Guide](./docs/tapdata-dev-guide.md).
 
 ## 「WIP」Contributing
 
