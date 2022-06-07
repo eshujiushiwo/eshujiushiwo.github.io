@@ -168,4 +168,4 @@ Contributions are welcomed and greatly appreciated. See [Contribution to TapData
 
 ## 「WIP」License
 
-TapData is under the SSPL v1 license. See the [LICENSE](./LICENSE.txt) file for details. (Copy from mongodb need modify)
+TapData is under the Apache 2.0 license. See the [LICENSE](./LICENSE.txt) file for details. (Copy from mongodb need modify)
